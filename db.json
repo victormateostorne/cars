@@ -1,0 +1,31 @@
+{
+    "coches":[
+        {
+            "modelo": "Ford",
+            "fecha" : "13-1-2023",
+            "precio": 15000,
+            "potencia": 150,
+            "color": "rojo",
+            "motor": "Hibrido"
+
+        },
+        {
+            "modelo": "Renault",
+            "fecha": "20-2-2023",
+            "precio": 21000,
+            "potencia": 180,
+            "color": "gris",
+            "motor": "Diesel"
+
+        },
+        {
+            "modelo": "Fiat",
+            "fecha": "18-3-2023",
+            "precio": 18000,
+            "potencia": 140,
+            "color": "negro",
+            "motor": "Electrico"
+
+        }
+    ]
+}
